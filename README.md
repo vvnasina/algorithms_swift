@@ -1,1 +1,1 @@
-# This is the repo where all the simple alorithms are available in swift language
+# This is the repo where all the simple algorithms are available in swift language
